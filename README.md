@@ -91,7 +91,7 @@ https://mac.github.com
 
 
 
-#BRANCH & MERGE
+#   BRANCH & MERGE
 ***Isolating work in branches, changing context, and integrating changes
 
 
